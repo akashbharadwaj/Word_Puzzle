@@ -1,7 +1,7 @@
 package MyPuzzle;
 
 //@author Akash Bharadwaj
-//Proj 3
+//Proj 3.1
 
 import MyPuzzle.MyHashTable;
 import java.io.BufferedReader;
